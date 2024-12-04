@@ -1,0 +1,1 @@
+See the magic of OCR using pytessaract. we will be able to read the content of image and convert it to text.
